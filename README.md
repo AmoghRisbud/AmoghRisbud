@@ -24,5 +24,6 @@
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amoghrisbud&show_icons=true&locale=en" alt="amoghrisbud" /></p>
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amoghrisbud&" alt="amoghrisbud" /></p>
-<img align="center" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<p align="center" ><img align="center" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."></p>
+
 
