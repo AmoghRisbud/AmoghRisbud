@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=6D2CF7&size=29&vCenter=true&lines=Amogh+Risbud)](https://git.io/typing-svg)</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Amogh Risbud</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **React, Backend Development**
