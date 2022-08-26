@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Amogh Risbud</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Front-End developer</h3>
 
-- 🌱 I’m currently learning **React, Backend Development**
+- 🌱 I’m having experience in developing Web applications based on React.JS Framework.Also I have sound knowledge of TypeScript language.
 
 - 💬 Ask me about **React, Node,**
 
